@@ -31,8 +31,3 @@ The report is driven by custom DAX formulas, showcasing expertise in complex cal
 * **Report Interactivity:** Utilizing slicers, filters, and cross-filtering effects to allow users to drill down into specific data segments.
 * **Design Principles:** Applying data visualization best practices for layout, color, and chart selection to ensure clarity and user-friendliness.
 
----
-
-## 📂 Repository Structure
-
-* `dashboard/`: Contains the final Power BI project file (`AdventureWorks-Sales-Dashboard.pbix`).
