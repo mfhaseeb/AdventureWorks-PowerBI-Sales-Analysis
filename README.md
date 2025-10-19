@@ -36,4 +36,3 @@ The report is driven by custom DAX formulas, showcasing expertise in complex cal
 ## 📂 Repository Structure
 
 * `dashboard/`: Contains the final Power BI project file (`AdventureWorks-Sales-Dashboard.pbix`).
-* `data/`: Contains the underlying data source (e.g., SQL scripts or CSV files used to connect to the AdventureWorks dataset).
